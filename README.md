@@ -1,4 +1,4 @@
-## Lab4
+## Lab3
 1. Open htmlpractice from the morning commit we did on github.
 We are going to add an images folder inside of the repo
 2. Find 3 pictures online to be displayed and add them to your code using the src, alt and width and height attributes.
